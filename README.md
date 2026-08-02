@@ -1,6 +1,9 @@
-# Hi there! 👋
+<p align="center">
+  <img src="Gemini_Generated_Image_9rbjiw9rbjiw9rbj.png" width="100%" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Vibe header" />
+</p>
 
-<img src="Gemini_Generated_Image_9rbjiw9rbjiw9rbj.png" align="right" width="180" style="border-radius: 10px;" />
+
+# Hi there! 👋
 
 🛡️ **Cybersecurity & Information Security Student**  
 Passionate about Web Penetration Testing, SOC Operations, Python Automation, and Security Tools.
