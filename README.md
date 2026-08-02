@@ -1,9 +1,11 @@
+
+# Hi there, my name is Alisi👋
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/alisip-3/alisip-3/main/Gemini_Generated_Image_2wikod2wikod2wik.png" width="100%" style="border-radius: 15px; max-height: 250px; object-fit: cover; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" alt="Cybersecurity Lab Banner" />
 </p>
 
 
-# Hi there! 👋
 
 🛡️ **Cybersecurity & Information Security Student**  
 Passionate about Web Penetration Testing, SOC Operations, Python Automation, and Security Tools.
