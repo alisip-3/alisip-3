@@ -23,7 +23,7 @@ Passionate about Web Penetration Testing, SOC Operations, Python Automation, and
 - **Security & SIEM:** Splunk, Log Analysis, Web Application Security
 - **Languages:** Python, Bash, HTML5, CSS3, JavaScript
 - **Frameworks & Web:** Flask, Jinja2, REST APIs
-- **Systems & Tools:** Linux (Kali/Debian), Git
+- **Systems & Tools:** Linux (Kali/Abuntu), Git
 
 ---
 
