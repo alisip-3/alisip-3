@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-<img src="./[image_5.png](https://github.com/alisip-3/alisip-3/blob/main/Gemini_Generated_Image_9rbjiw9rbjiw9rbj.png)" align="right" width="180" style="border-radius: 10px;" />
+<img src="Gemini_Generated_Image_9rbjiw9rbjiw9rbj.png" align="right" width="180" style="border-radius: 10px;" />
 
 🛡️ **Cybersecurity & Information Security Student**  
 Passionate about Web Penetration Testing, SOC Operations, Python Automation, and Security Tools.
