@@ -29,5 +29,5 @@ My name is Alisi, a Cyber Security and Information Security student based in Isr
 
 ---
 
-📫 **Connect with me:**  
+## 📫 Connect with me: 
 [LinkedIn](www.linkedin.com/in/alisi-pinhasov-a38368176) | [Email](alisilove3@gmail.com)
