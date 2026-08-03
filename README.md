@@ -6,8 +6,8 @@
 </p>
 
 
-## About me
-My name is Alisi, a Cyber Security and Information Security student based in Israel. I'm absolutely fascinated by the SOC world, it often feels like solving a high-stakes escape room! I love leveraging AI in my workflow, constantly challenging it with critical thinking and creativity to find unique, out-of-the-box ways to solve problems, and I always do it with a smile. 😊.
+## About me 🔍✨
+My name is Alisi, a Cyber Security and Information Security student based in Israel. I'm absolutely fascinated by the SOC world, it often feels like solving a high-stakes escape room!🕵️‍♀️ I love leveraging AI in my workflow, constantly challenging it with critical thinking and creativity to find unique, out-of-the-box ways to solve problems, and I always do it with a smile. 😊.
 
 ---
 
