@@ -1,29 +1,21 @@
 
-# Hi there, my name is Alisi👋
+# welcom to my git 👋
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/alisip-3/alisip-3/main/Gemini_Generated_Image_2wikod2wikod2wik.png" width="100%" style="border-radius: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);" alt="Cybersecurity Lab Banner" />
 </p>
 
 
-
-🛡️ **Cybersecurity & Information Security Student**  
-Passionate about Web Penetration Testing, SOC Operations, Python Automation, and Security Tools.
-
----
-
-### 💡 About Me & Strengths
-- 🧠 **Critical Thinking & Problem Solving:** Strong analytical mindset for investigating security events and analyzing vulnerabilities.
-- 🤖 **AI-Driven Operations:** Skilled in leveraging AI tools to automate workflows and optimize security analysis.
-- 🎨 **Creative & Positive:** Approach technical challenges with creativity, adaptability, and a proactive attitude.
+## About me
+My name is Alisi, a Cyber Security and Information Security student based in Israel. I'm absolutely fascinated by the SOC world, it often feels like solving a high-stakes escape room! I love leveraging AI in my workflow, constantly challenging it with critical thinking and creativity to find unique, out-of-the-box ways to solve problems, and I always do it with a smile. 😊.
 
 ---
 
-### 💻 Tech Stack & Skills
-- **Security & SIEM:** Splunk, Log Analysis, Web Application Security
+### 💻 Tech Stack & Tools I Work With
+- **Security & SIEM:** Splunk, Log Analysis, Web Application Security Concepts
 - **Languages:** Python, Bash, HTML5, CSS3, JavaScript
 - **Frameworks & Web:** Flask, Jinja2, REST APIs
-- **Systems & Tools:** Linux (Kali/Abuntu), Git
+- **Systems & Tools:** Linux (Kali/Ubuntu), Git.
 
 ---
 
