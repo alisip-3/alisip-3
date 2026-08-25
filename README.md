@@ -20,9 +20,8 @@ My name is Alisi, a Cyber Security and Information Security student based in Isr
 ---
 
 ### 📌 Featured Projects
-
-- 🔍 **[AI-Powered Vulnerability Reporter](https://github.com/alisip-3/AI-Powered-Vulnerability-Reporter)**  
-  An automated security tool leveraging AI to analyze system/code vulnerabilities and generate detailed security reports.
+- 🛡️ **[SOC Log Analyzer](https://github.com/alisip-3/soc-log-analyzer)**  
+  A full-stack tool that parses PCAP and logs to detect threats (LotL, C2, brute force), checks hashes via VirusTotal, and uses Gemini AI to write professional Incident Response reports.
 
 - 📊 **[Sys-Monitor Python](https://github.com/alisip-3/sys-monitor_python)**  
   A lightweight Python-based system monitoring utility designed to track hardware metrics, performance, and system health in real time.
