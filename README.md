@@ -28,8 +28,7 @@ My name is Alisi, a Cyber Security and Information Security student based in Isr
   
 -  **[Malware Analysis – Final Project](https://github.com/alisip-3/Malware-Analysis-Project/tree/main)**
   Malware analysis conducted in an isolated sandbox environment: static and dynamic examination of
-suspicious files, identification of evasion and persistence mechanisms, detection of IOCs, 3 tested YARA rules and python-tool i build.  )Indicators of
-Compromise(, and delivery of a summary security report with findings and conclusions.
+suspicious files, identification of evasion and persistence mechanisms, detection of IOCs, 3 tested YARA rules, python-tool i build, and delivery of a summary security report with findings and conclusions.
 ---
 
 ## 📫 Connect with me: 
