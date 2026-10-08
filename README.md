@@ -21,14 +21,13 @@ My name is Alisi, a Cyber Security and Information Security student based in Isr
 
 ### 📌 Featured Projects
 -  **[SOC Log Analyzer](https://github.com/alisip-3/soc-log-analyzer)**  
-  A full-stack tool that parses PCAP and logs to detect threats (LotL, C2, brute force), checks hashes via VirusTotal, and uses Gemini AI to write professional Incident Response reports.
+Built a live web tool (Python, Flask, Gemini AI) that analyzes PCAP and log files, detects threats like brute force, C2 beaconing, and living-off-the-land attacks, and checks file hashes with the VirusTotal API. It automatically generates an incident response report mapped to MITRE ATT&CK, and I tested it on real AgentTesla malware traffic.
 
 -  **[Sys-Monitor Python](https://github.com/alisip-3/sys-monitor_python)**  
-  A lightweight Python-based system monitoring utility designed to track hardware metrics, performance, and system health in real time.
+Built a Python tool that monitors Windows processes in real time and detects suspicious behavior such as fake Chrome processes, programs running from Temp/Downloads, and abnormal parent-child processes (e.g., cmd/PowerShell abuse). Alerts are saved to a SQLite database and shown as desktop notifications, and I tested the detections with my own attack simulations.
   
 -  **[Malware Analysis – Final Project](https://github.com/alisip-3/Malware-Analysis-Project/tree/main)**
-  Malware analysis conducted in an isolated sandbox environment: static and dynamic examination of
-suspicious files, identification of evasion and persistence mechanisms, detection of IOCs, 3 tested YARA rules, python-tool i build, and delivery of a summary security report with findings and conclusions.
+  Performed a static analysis of 3 disguised phishing files (a PDF and two Word macro documents) and proved they were part of one coordinated attack campaign, without executing any malware. Wrote the full professional report, 3 tested YARA detection rules, an IOC list, a MITRE ATT&CK mapping, and a Python analysis tool.
 ---
 
 ## 📫 Connect with me: 
